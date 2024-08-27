@@ -14,3 +14,6 @@ Dany Hoter
 - [Timespan/duration values in KQL, Power Query and Power BI March 2024](https://techcommunity.microsoft.com/t5/azure-data-explorer-blog/timespan-duration-values-in-kql-power-query-and-power-bi/ba-p/4086091)
 
 
+## Databrick Integration
+
+Umesh Pawar - [Unity Catalog and Fabric integration](https://medium.com/@gcp.azure.aws/integrating-unity-catalog-with-microsoft-fabric-a-step-by-step-guide-e65df324974a)

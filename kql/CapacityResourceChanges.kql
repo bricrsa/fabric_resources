@@ -1,0 +1,31 @@
+resourcechanges
+| extend targetresource = tostring(parse_json(properties).targetResourceType) 
+| where targetresource == 'microsoft.fabric/capacities'
+| extend change_time = tostring(parse_json(properties.changeAttributes).timestamp) 
+    ,change_user =tostring(parse_json(properties.changeAttributes).changedBy) 
+    ,change_type =tostring(parse_json(properties).changeType) 
+    ,changes =parse_json(properties.changes)
+| extend property_state = changes["properties.state"],sku_state = changes["sku.name"]
+| extend change_from_state = property_state["previousValue"], change_to_state = property_state["newValue"]
+    ,change_from_sku = sku_state["previousValue"], change_to_sku = sku_state["newValue"]
+| extend change_detail = strcat(iif(isnull(change_from_state), "", strcat("from ", change_from_state, " to " , change_to_state, " ")) ,iif(isnull(change_from_sku), "",strcat("from ", change_from_sku, " to ", change_to_sku))) 
+| extend capacity_name = split( tostring(parse_json(properties.targetResourceId)), "/")[-1]
+| project capacity_name, change_time, change_user, change_detail
+| order by change_time desc
+
+
+
+// example properties 
+"changeType": "Update",
+    "changes": {
+        "sku.name": {
+            "previousValue": "F2",
+            "newValue": "F4"
+        }
+
+ "changeType": "Update",
+    "changes": {
+        "properties.state": {
+            "previousValue": "Active",
+            "newValue": "Paused"
+        }

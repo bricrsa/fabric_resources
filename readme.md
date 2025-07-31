@@ -1,6 +1,11 @@
 # Various helpful resources for Microsoft Fabric
 
 
+### Copilot Prompt for searching the Fabric Roadmap
+
+Designed to work in Copilot in Bing on Edge browser. [Details of prompt](FabricRoadmapPrompt.md)
+
+
 ### Copy Data from one Lakehouse to anther to support data management for deployment between SDLC stages
 
 Notebook: [Copy Data between Lakehouses](./notebooks/CopyDataForSDLC.ipynb)

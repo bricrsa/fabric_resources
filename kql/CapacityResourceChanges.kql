@@ -1,3 +1,5 @@
+//only recent changes are shown
+
 resourcechanges
 | extend targetresource = tostring(parse_json(properties).targetResourceType) 
 | where targetresource == 'microsoft.fabric/capacities'
@@ -10,8 +12,9 @@ resourcechanges
     ,change_from_sku = sku_state["previousValue"], change_to_sku = sku_state["newValue"]
 | extend change_detail = strcat(iif(isnull(change_from_state), "", strcat("from ", change_from_state, " to " , change_to_state, " ")) ,iif(isnull(change_from_sku), "",strcat("from ", change_from_sku, " to ", change_to_sku))) 
 | extend capacity_name = split( tostring(parse_json(properties.targetResourceId)), "/")[-1]
-| project capacity_name, change_time, change_user, change_detail
+| project subscriptionId ,capacity_name, change_time, change_user, change_detail
 | order by change_time desc
+
 
 
 

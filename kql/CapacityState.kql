@@ -1,0 +1,4 @@
+resources
+| where type == "microsoft.fabric/capacities"
+| extend SKU = tostring(parse_json(sku).name) , state = tostring(parse_json(properties).state)
+| project subscriptionId ,resourceGroup, location, capacityName = name, SKU, ['state']

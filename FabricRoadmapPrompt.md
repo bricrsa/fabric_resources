@@ -1,6 +1,6 @@
 # Prompt to query Fabric Roadmap
 
-Designed to be used with the consumer Copilot in [Bing](bing.com) on Edge browser. Not tested with M365 Copilot, as it tends to ground on internal data by default.
+Designed to be used with the consumer Copilot in [Bing](https://www.bing.com/) on Edge browser. Not tested with M365 Copilot, as it tends to ground on internal data by default.
 
 
 **Prompt** : Note that you need to replace the [Your Search Term Here] with your search phrase or word

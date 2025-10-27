@@ -1,5 +1,12 @@
 # Various helpful resources for Microsoft Fabric
 
+## [Useful Blogs](/blogs.md)
+
+
+
+## Useful training
+
+## Self authored or contributed
 
 ### Copilot Prompt for searching the Fabric Roadmap
 
@@ -26,3 +33,5 @@ Or however you want to connect to the Azure Resource Graph.
 
 - [Current Capacity State](./kql/CapacityState.kql)
 - [Current Capacity History](./kql/CapacityResourceChanges.kql)
+- Example of the Capacity State chart
+    ![CapacitiDashboard](/images/FabCapGraph.png)

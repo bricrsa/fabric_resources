@@ -1,12 +1,20 @@
 # Various helpful resources for Microsoft Fabric
 
-## [Useful Blogs](/blogs.md)
+## Useful Blogs
+
+- [Blogs page](/blogs.md)
+- [Officual Fabric Toolbox from Microsoft](https://github.com/microsoft/fabric-toolbox/tree/main)
 
 
+## Useful training and repos
 
-## Useful training
+ - [Useful training and repos](/repos.md)
 
 ## Self authored or contributed
+
+### Fabric Databricks Mirroring
+
+Automation and helper notebooks for mirroring from UC using tags and schemas [repo](https://github.com/bricrsa/fabric-databricks-mirror-helper)
 
 ### Copilot Prompt for searching the Fabric Roadmap
 

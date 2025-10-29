@@ -1,3 +1,12 @@
+## General Fabric plaform
+
+Matthew Farrow 
+- [Deep Dive into OneLake, 3 part series - May 2025](https://www.linkedin.com/pulse/deep-dive-onelake-part-1-what-onelake-matthew-farrow-fhw6e/)
+- [Explaining Fabric Throttling, 3 part series - Sept 2025](https://www.linkedin.com/pulse/explaining-10-60-1440-minute-throttling-limits-part-1-matthew-farrow-z1kse/)
+- [Considerations on Fabric Spark Autoscale, 3 part series - Sept 2025](https://www.linkedin.com/pulse/should-i-move-spark-autoscale-billing-part-1-general-matthew-farrow-crxoe/)
+- [Considerations for Fabric Billing, 5 part series - Feb 2025](https://www.linkedin.com/pulse/fabric-billing-part-1-what-capacity-model-matthew-farrow-z9ene/)
+
+
 ## Delta compatibility and notes
 
 Miles Cole - [Decoding Delta Lake Compatibility Between Fabric and Databricks - March 2024](https://milescole.dev/integration/2024/03/22/Decoding-Delta-Lake-Compatibility-Between-Fabric-and-Databricks.html)
@@ -17,3 +26,4 @@ Dany Hoter
 ## Databrick Integration
 
 Umesh Pawar - [Unity Catalog and Fabric integration](https://medium.com/@gcp.azure.aws/integrating-unity-catalog-with-microsoft-fabric-a-step-by-step-guide-e65df324974a)
+Aitor Murguzur - [Databricks and Fabric — writing to OneLake and ADLS Gen2 non UC pattern - Feb 2024 ](https://murggu.medium.com/databricks-and-fabric-writing-to-onelake-and-adls-gen2-671dcf24cf33)

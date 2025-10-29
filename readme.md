@@ -1,9 +1,24 @@
 # Various helpful resources for Microsoft Fabric
 
+## *Contents*
+
+- [Useful Blogs](#useful-blogs)
+- [Useful training and repos](#useful-training-and-repos)
+- [Fabric Databricks Mirroring](#fabric-databricks-mirroring)
+- [Copilot Prompt for searching the Fabric Roadmap](#copilot-prompt-for-searching-the-fabric-roadmap)
+- [Copy Data from one Lakehouse to anther to support data management for deployment between SDLC stages](#copy-data-from-one-lakehouse-to-anther-to-support-data-management-for-deployment-between-sdlc-stages)
+- [Collect information for Fabric Capacities, Workspaces and Items and record in SCD2](#collect-information-for-fabric-capacities-workspaces-and-items-and-record-in-scd2))
+- [Understanding Microsoft Fabric Capacity state and history from the Azure Resource Graph](#understanding-microsoft-fabric-capacity-state-and-history-from-the-azure-resource-graph)
+
+<br><br>
+***
+***
+<br><br>
+
 ## Useful Blogs
 
 - [Blogs page](/blogs.md)
-- [Officual Fabric Toolbox from Microsoft](https://github.com/microsoft/fabric-toolbox/tree/main)
+- [Official Fabric Toolbox from Microsoft](https://github.com/microsoft/fabric-toolbox/tree/main)
 
 
 ## Useful training and repos
@@ -35,7 +50,7 @@ Notebook: [Copy Data between Lakehouses](./notebooks/CopyDataForSDLC.ipynb)
 
 ### Understanding Microsoft Fabric Capacity state and history from the Azure Resource Graph
 
-Write queries in [Azure Resource Graph Explorer](https://portal.azure.com/#view/HubsExtension/ArgQueryBlade) in the Azure Portal
+Write queries in [Azure Resource Graph Explorer](https://portal.azure.com/#view/HubsExtension/ArgQueryBlade) in the Azure Portal. Show capacity information in the Azure portal via an Azure Dashboard.
 
 Or however you want to connect to the Azure Resource Graph.
 

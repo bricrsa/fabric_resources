@@ -31,6 +31,11 @@
 
 Automation and helper notebooks for mirroring from UC using tags and schemas [repo](https://github.com/bricrsa/fabric-databricks-mirror-helper)
 
+### Set up a lakehouse with shortcuts in another workspace via notebook; with semantic model
+
+Create shortcuts in another workspace from a schema enabled lakehouse [notebook](/notebooks/CreateShortcuts_blaster.ipynb)
+Copy a semantic model to another workspace, rebind it and refresh [notebook](/notebooks/01%20Direct%20Lake%20-%20Semantic%20Model%20and%20Report%20Deployment.ipynb)
+
 ### Copilot Prompt for searching the Fabric Roadmap
 
 Designed to work in Copilot in Bing on Edge browser. [Details of prompt](FabricRoadmapPrompt.md)

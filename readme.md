@@ -5,6 +5,7 @@
 - [Useful Blogs](#useful-blogs)
 - [Useful training and repos](#useful-training-and-repos)
 - [Fabric Databricks Mirroring](#fabric-databricks-mirroring)
+- [Web Modelling empowerment](#web-modelling-empowerment-set-up-a-lakehouse-with-shortcuts-in-another-workspace-via-notebook-with-semantic-model-copied-and-pq-enabled)
 - [Copilot Prompt for searching the Fabric Roadmap](#copilot-prompt-for-searching-the-fabric-roadmap)
 - [Copy Data from one Lakehouse to anther to support data management for deployment between SDLC stages](#copy-data-from-one-lakehouse-to-anther-to-support-data-management-for-deployment-between-sdlc-stages)
 - [Collect information for Fabric Capacities, Workspaces and Items and record in SCD2](#collect-information-for-fabric-capacities-workspaces-and-items-and-record-in-scd2))
@@ -31,8 +32,9 @@
 
 Automation and helper notebooks for mirroring from UC using tags and schemas [repo](https://github.com/bricrsa/fabric-databricks-mirror-helper)
 
-### Set up a lakehouse with shortcuts in another workspace via notebook; with semantic model
+### Web Modelling empowerment: set up a lakehouse with shortcuts in another workspace via notebook; with semantic model copied and PQ enabled
 
+Longer instructions and architecture diagram [here](/web_modelling_business_users.md)
 Create shortcuts in another workspace from a schema enabled lakehouse [notebook](/notebooks/CreateShortcuts_blaster.ipynb)
 Copy a semantic model to another workspace, rebind it and refresh [notebook](/notebooks/01%20Direct%20Lake%20-%20Semantic%20Model%20and%20Report%20Deployment.ipynb)
 

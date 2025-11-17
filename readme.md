@@ -62,4 +62,4 @@ Or however you want to connect to the Azure Resource Graph.
 - [Current Capacity State](./kql/CapacityState.kql)
 - [Current Capacity History](./kql/CapacityResourceChanges.kql)
 - Example of the Capacity State chart
-    ![CapacitiDashboard](/images/FabCapGraph.png)
+    ![CapacityDashboard](/images/FabCapGraph.png)

@@ -22,8 +22,8 @@ Assumptions:
 
 NOTE: Notebooks can run either PySpark or Python kernels. 
 
-- Create shortcuts in another workspace from a schema enabled lakehouse [notebook](/notebooks/CreateShortcuts_blaster.ipynb)
-- Copy a semantic model to another workspace, rebind it and refresh [notebook](/notebooks/01%20Direct%20Lake%20-%20Semantic%20Model%20and%20Report%20Deployment.ipynb)
+- Create shortcuts in another workspace from a schema enabled lakehouse [notebook](/notebooks/01%20CreateShortcuts%20blaster.ipynb)
+- Copy a semantic model to another workspace, rebind it and refresh [notebook](/notebooks/02%20Direct%20Lake%20-%20Semantic%20Model%20Deployment.ipynb)
 - After enabling permissions:
     - Destinations users will be able to modify their version of the semantic model, using their read-only shortcut data in their local lakehouse
     - Destinations users will be able to modify their version of the semantic model and use PowerQuery and OneLake catalog to augment the semantic model

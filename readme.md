@@ -34,9 +34,9 @@ Automation and helper notebooks for mirroring from UC using tags and schemas [re
 
 ### Web Modelling empowerment: set up a lakehouse with shortcuts in another workspace via notebook; with semantic model copied and PQ enabled
 
-Longer instructions and architecture diagram [here](/web_modelling_business_users.md)
-Create shortcuts in another workspace from a schema enabled lakehouse [notebook](/notebooks/01%20CreateShortcuts%20blaster.ipynb)
-Copy a semantic model to another workspace, rebind it and refresh [notebook](/notebooks/02%20Direct%20Lake%20-%20Semantic%20Model%20Deployment.ipynb)
+- Longer instructions and architecture diagram [here](/web_modelling_business_users.md)  
+- Create shortcuts in another workspace from a schema enabled lakehouse [notebook](/notebooks/01%20CreateShortcuts%20blaster.ipynb)  
+- Copy a semantic model to another workspace, rebind it and refresh [notebook](/notebooks/02%20Direct%20Lake%20-%20Semantic%20Model%20Deployment.ipynb)  
 
 ### Copilot Prompt for searching the Fabric Roadmap
 

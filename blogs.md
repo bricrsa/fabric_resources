@@ -3,8 +3,18 @@
 Matthew Farrow 
 - [Deep Dive into OneLake, 3 part series - May 2025](https://www.linkedin.com/pulse/deep-dive-onelake-part-1-what-onelake-matthew-farrow-fhw6e/)
 - [Explaining Fabric Throttling, 3 part series - Sept 2025](https://www.linkedin.com/pulse/explaining-10-60-1440-minute-throttling-limits-part-1-matthew-farrow-z1kse/)
-- [Considerations on Fabric Spark Autoscale, 3 part series - Sept 2025](https://www.linkedin.com/pulse/should-i-move-spark-autoscale-billing-part-1-general-matthew-farrow-crxoe/)
-- [Considerations for Fabric Billing, 5 part series - Feb 2025](https://www.linkedin.com/pulse/fabric-billing-part-1-what-capacity-model-matthew-farrow-z9ene/)
+
+- ### Considerations on Fabric Spark Autoscale, 3 part series - Sept 2025
+    - [Part 1](https://www.linkedin.com/pulse/should-i-move-spark-autoscale-billing-part-1-general-matthew-farrow-crxoe/)
+    - [Part 2](https://www.linkedin.com/pulse/should-i-move-spark-autoscale-billing-part-2-cost-different-farrow-z5f0e)
+    - [Part 3](https://www.linkedin.com/pulse/should-i-move-spark-autoscale-billing-part-3-nuances-moving-farrow-sav7e)
+
+- ### Considerations for Fabric Billing, 5 part series - Feb 2025
+    - [Part 1](https://www.linkedin.com/pulse/fabric-billing-part-1-what-capacity-model-matthew-farrow-z9ene/)
+    - [Part 2](https://www.linkedin.com/pulse/fabric-billing-part-2-bursting-smoothing-evolution-capacity-farrow-wjk0e/)
+    - [Part 3](https://www.linkedin.com/pulse/fabric-billing-part-3-reservations-ri-v-pay-you-go-payg-farrow-oayye/)
+    - [Part 4](https://www.linkedin.com/pulse/fabric-billing-part-4-implications-pause-restart-matthew-farrow-fznse)
+    - [Part 5](https://www.linkedin.com/pulse/fabric-billing-part-5-implications-scale-up-down-matthew-farrow-qmmne)
 
 
 ## Delta compatibility and notes

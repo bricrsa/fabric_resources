@@ -19,6 +19,7 @@
 ## Useful Blogs
 
 - [Blogs page](/blogs.md)
+    - [Matthew Farrow](/blogs.md#considerations-for-fabric-billing-5-part-series---feb-2025)
 - [Official Fabric Toolbox from Microsoft](https://github.com/microsoft/fabric-toolbox/tree/main)
 
 

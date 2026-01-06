@@ -15,6 +15,9 @@ Matthew Farrow
     - [Part 3](https://www.linkedin.com/pulse/fabric-billing-part-3-reservations-ri-v-pay-you-go-payg-farrow-oayye/)
     - [Part 4](https://www.linkedin.com/pulse/fabric-billing-part-4-implications-pause-restart-matthew-farrow-fznse)
     - [Part 5](https://www.linkedin.com/pulse/fabric-billing-part-5-implications-scale-up-down-matthew-farrow-qmmne)
+ 
+- ### Considerations for SKU Scaling - Dec 2025
+    - [Part the first](https://www.linkedin.com/pulse/rth-capacity-events-analysis-series-sku-changes-matthew-farrow-00lte)
 
 
 ## Delta compatibility and notes

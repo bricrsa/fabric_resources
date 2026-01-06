@@ -16,8 +16,11 @@ Matthew Farrow
     - [Part 4](https://www.linkedin.com/pulse/fabric-billing-part-4-implications-pause-restart-matthew-farrow-fznse)
     - [Part 5](https://www.linkedin.com/pulse/fabric-billing-part-5-implications-scale-up-down-matthew-farrow-qmmne)
  
-- ### Considerations for SKU Scaling - Dec 2025
-    - [Part the first](https://www.linkedin.com/pulse/rth-capacity-events-analysis-series-sku-changes-matthew-farrow-00lte)
+- ### Capacity Events Analysis - Nov 2025
+    - [Part 1](https://www.linkedin.com/pulse/rth-capacity-events-overview-events-schema-part-1-summary-farrow-du9qe/)
+    - [Part 2](https://www.linkedin.com/pulse/rth-capacity-events-overview-events-schema-part-2-states-farrow-z6zxe/)
+    - [Utilsation](https://www.linkedin.com/pulse/rth-capacity-events-analysis-series-utilisation-matthew-farrow-eible/)
+    - [Scaling](https://www.linkedin.com/pulse/rth-capacity-events-analysis-series-sku-changes-matthew-farrow-00lte)
 
 
 ## Delta compatibility and notes

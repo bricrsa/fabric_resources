@@ -1,0 +1,251 @@
+date,category,amount,department,ExecSubFunction,Country
+2024-01-01,Salaries,49230.11,Sales,Infrastructure,150
+2024-01-01,Utilities,6663.6,Sales,Infrastructure,150
+2024-01-01,Rent,15000.0,Sales,Infrastructure,150
+2024-01-01,Office Supplies,2340.59,Sales,Infrastructure,150
+2024-01-01,Insurance,2948.14,Sales,Infrastructure,150
+2024-01-01,Maintenance,3038.71,Sales,Infrastructure,150
+2024-01-01,IT Services,8265.74,Sales,Infrastructure,150
+2024-01-01,Marketing,10288.14,Sales,Infrastructure,150
+2024-01-01,Travel,2492.84,Sales,Infrastructure,150
+2024-01-01,Professional Services,7761.0,Sales,Infrastructure,150
+2024-02-01,Salaries,49939.27,Sales,Infrastructure,150
+2024-02-01,Utilities,6517.6,Sales,Infrastructure,150
+2024-02-01,Rent,15300.0,Sales,Infrastructure,150
+2024-02-01,Office Supplies,1564.67,Sales,Infrastructure,150
+2024-02-01,Insurance,3156.64,Sales,Infrastructure,150
+2024-02-01,Maintenance,2098.2,Sales,Infrastructure,150
+2024-02-01,IT Services,8004.94,Sales,Infrastructure,150
+2024-02-01,Marketing,8799.8,Sales,Infrastructure,150
+2024-02-01,Travel,2658.55,Sales,Infrastructure,150
+2024-02-01,Professional Services,6891.98,Sales,Infrastructure,150
+2024-03-01,Salaries,51002.52,Sales,Infrastructure,150
+2024-03-01,Utilities,5821.91,Sales,Infrastructure,150
+2024-03-01,Rent,15606.0,Sales,Infrastructure,150
+2024-03-01,Office Supplies,2479.09,Sales,Infrastructure,150
+2024-03-01,Insurance,3073.91,Sales,Infrastructure,150
+2024-03-01,Maintenance,3306.87,Sales,Infrastructure,150
+2024-03-01,IT Services,7628.21,Sales,Infrastructure,150
+2024-03-01,Marketing,13036.56,Sales,Infrastructure,150
+2024-03-01,Travel,4599.26,Sales,Infrastructure,150
+2024-03-01,Professional Services,5538.67,Sales,Infrastructure,150
+2024-04-01,Salaries,49452.68,Sales,Infrastructure,150
+2024-04-01,Utilities,5218.27,Sales,Infrastructure,150
+2024-04-01,Rent,15918.12,Sales,Infrastructure,150
+2024-04-01,Office Supplies,2168.58,Sales,Infrastructure,150
+2024-04-01,Insurance,3287.05,Sales,Infrastructure,150
+2024-04-01,Maintenance,3956.45,Sales,Infrastructure,150
+2024-04-01,IT Services,9186.08,Sales,Infrastructure,150
+2024-04-01,Marketing,10485.16,Sales,Infrastructure,150
+2024-04-01,Travel,2774.06,Sales,Infrastructure,150
+2024-04-01,Professional Services,7247.34,Sales,Infrastructure,150
+2024-05-01,Salaries,51519.71,Sales,Infrastructure,150
+2024-05-01,Utilities,5065.59,Sales,Infrastructure,150
+2024-05-01,Rent,16236.48,Sales,Infrastructure,150
+2024-05-01,Office Supplies,2215.95,Sales,Infrastructure,150
+2024-05-01,Insurance,3225.1,Sales,Infrastructure,150
+2024-05-01,Maintenance,2233.4,Sales,Infrastructure,150
+2024-05-01,IT Services,9346.58,Sales,Infrastructure,150
+2024-05-01,Marketing,8270.97,Sales,Infrastructure,150
+2024-05-01,Travel,3768.53,Sales,Infrastructure,150
+2024-05-01,Professional Services,7476.3,Sales,Infrastructure,150
+2024-06-01,Salaries,51233.08,Sales,Infrastructure,150
+2024-06-01,Utilities,5168.44,Sales,Infrastructure,150
+2024-06-01,Rent,16561.21,Sales,Infrastructure,150
+2024-06-01,Office Supplies,1959.52,Sales,Infrastructure,150
+2024-06-01,Insurance,3305.21,Sales,Infrastructure,150
+2024-06-01,Maintenance,2444.26,Sales,Infrastructure,150
+2024-06-01,IT Services,9133.21,Sales,Infrastructure,150
+2024-06-01,Marketing,12016.21,Sales,Infrastructure,150
+2024-06-01,Travel,6100.85,Sales,Infrastructure,150
+2024-06-01,Professional Services,6407.04,Sales,Infrastructure,150
+2024-07-01,Salaries,50308.28,Sales,Infrastructure,150
+2024-07-01,Utilities,6155.48,Sales,Infrastructure,150
+2024-07-01,Rent,16892.44,Sales,Infrastructure,150
+2024-07-01,Office Supplies,1844.72,Sales,Infrastructure,150
+2024-07-01,Insurance,3331.49,Sales,Infrastructure,150
+2024-07-01,Maintenance,2307.13,Sales,Infrastructure,150
+2024-07-01,IT Services,8368.7,Sales,Infrastructure,150
+2024-07-01,Marketing,9901.54,Sales,Infrastructure,150
+2024-07-01,Travel,3495.93,Sales,Infrastructure,150
+2024-07-01,Professional Services,5715.39,Sales,Infrastructure,150
+2024-08-01,Salaries,51239.44,Sales,Infrastructure,150
+2024-08-01,Utilities,6291.31,Sales,Infrastructure,150
+2024-08-01,Rent,17230.29,Sales,Infrastructure,150
+2024-08-01,Office Supplies,2299.03,Sales,Infrastructure,150
+2024-08-01,Insurance,3394.55,Sales,Infrastructure,150
+2024-08-01,Maintenance,2013.34,Sales,Infrastructure,150
+2024-08-01,IT Services,10004.85,Sales,Infrastructure,150
+2024-08-01,Marketing,10746.42,Sales,Infrastructure,150
+2024-08-01,Travel,5466.51,Sales,Infrastructure,150
+2024-08-01,Professional Services,5657.22,Sales,Infrastructure,150
+2024-09-01,Salaries,51406.16,Sales,Infrastructure,150
+2024-09-01,Utilities,6170.24,Sales,Infrastructure,150
+2024-09-01,Rent,17574.89,Sales,Infrastructure,150
+2024-09-01,Office Supplies,2418.78,Sales,Infrastructure,150
+2024-09-01,Insurance,3373.16,Sales,Infrastructure,150
+2024-09-01,Maintenance,2331.09,Sales,Infrastructure,150
+2024-09-01,IT Services,8555.4,Sales,Infrastructure,150
+2024-09-01,Marketing,11356.32,Sales,Infrastructure,150
+2024-09-01,Travel,3763.47,Sales,Infrastructure,150
+2024-09-01,Professional Services,6786.33,Sales,Infrastructure,150
+2024-10-01,Salaries,52126.91,Sales,Infrastructure,150
+2024-10-01,Utilities,6097.74,Sales,Infrastructure,150
+2024-10-01,Rent,17926.39,Sales,Infrastructure,150
+2024-10-01,Office Supplies,2342.7,Sales,Infrastructure,150
+2024-10-01,Insurance,3322.02,Sales,Infrastructure,150
+2024-10-01,Maintenance,3117.78,Sales,Infrastructure,150
+2024-10-01,IT Services,10298.64,Sales,Infrastructure,150
+2024-10-01,Marketing,9061.54,Sales,Infrastructure,150
+2024-10-01,Travel,3993.91,Sales,Infrastructure,150
+2024-10-01,Professional Services,6869.05,Sales,Infrastructure,150
+2024-11-01,Salaries,50703.0,Sales,Infrastructure,150
+2024-11-01,Utilities,5506.72,Sales,Infrastructure,150
+2024-11-01,Rent,18284.92,Sales,Infrastructure,150
+2024-11-01,Office Supplies,1904.27,Sales,Infrastructure,150
+2024-11-01,Insurance,3569.37,Sales,Infrastructure,150
+2024-11-01,Maintenance,3869.62,Sales,Infrastructure,150
+2024-11-01,IT Services,10613.16,Sales,Infrastructure,150
+2024-11-01,Marketing,18710.39,Sales,Infrastructure,150
+2024-11-01,Travel,3246.69,Sales,Infrastructure,150
+2024-11-01,Professional Services,7701.35,Sales,Infrastructure,150
+2024-12-01,Salaries,51783.0,Sales,Infrastructure,150
+2024-12-01,Utilities,7271.2,Sales,Infrastructure,150
+2024-12-01,Rent,18650.61,Sales,Infrastructure,150
+2024-12-01,Office Supplies,2460.3,Sales,Infrastructure,150
+2024-12-01,Insurance,3496.46,Sales,Infrastructure,150
+2024-12-01,Maintenance,2889.79,Sales,Infrastructure,150
+2024-12-01,IT Services,9813.1,Sales,Infrastructure,150
+2024-12-01,Marketing,21598.26,Sales,Infrastructure,150
+2024-12-01,Travel,4173.82,Sales,Infrastructure,150
+2024-12-01,Professional Services,7037.44,Sales,Infrastructure,150
+2025-01-01,Salaries,52129.31,Sales,Infrastructure,150
+2025-01-01,Utilities,6825.25,Sales,Infrastructure,150
+2025-01-01,Rent,19023.63,Sales,Infrastructure,150
+2025-01-01,Office Supplies,2341.65,Sales,Infrastructure,150
+2025-01-01,Insurance,3410.13,Sales,Infrastructure,150
+2025-01-01,Maintenance,2477.67,Sales,Infrastructure,150
+2025-01-01,IT Services,11098.14,Sales,Infrastructure,150
+2025-01-01,Marketing,12853.5,Sales,Infrastructure,150
+2025-01-01,Travel,3953.47,Sales,Infrastructure,150
+2025-01-01,Professional Services,7087.51,Sales,Infrastructure,150
+2025-02-01,Salaries,51071.3,Sales,Infrastructure,150
+2025-02-01,Utilities,7214.73,Sales,Infrastructure,150
+2025-02-01,Rent,19404.1,Sales,Infrastructure,150
+2025-02-01,Office Supplies,1617.58,Sales,Infrastructure,150
+2025-02-01,Insurance,3671.29,Sales,Infrastructure,150
+2025-02-01,Maintenance,3153.18,Sales,Infrastructure,150
+2025-02-01,IT Services,9918.75,Sales,Infrastructure,150
+2025-02-01,Marketing,11562.55,Sales,Infrastructure,150
+2025-02-01,Travel,5342.96,Sales,Infrastructure,150
+2025-02-01,Professional Services,7091.67,Sales,Infrastructure,150
+2025-03-01,Salaries,51888.15,Sales,Infrastructure,150
+2025-03-01,Utilities,5018.99,Sales,Infrastructure,150
+2025-03-01,Rent,19792.18,Sales,Infrastructure,150
+2025-03-01,Office Supplies,2110.54,Sales,Infrastructure,150
+2025-03-01,Insurance,3577.59,Sales,Infrastructure,150
+2025-03-01,Maintenance,2633.15,Sales,Infrastructure,150
+2025-03-01,IT Services,10573.57,Sales,Infrastructure,150
+2025-03-01,Marketing,10141.77,Sales,Infrastructure,150
+2025-03-01,Travel,4596.39,Sales,Infrastructure,150
+2025-03-01,Professional Services,5778.61,Sales,Infrastructure,150
+2025-04-01,Salaries,53004.79,Sales,Infrastructure,150
+2025-04-01,Utilities,5552.53,Sales,Infrastructure,150
+2025-04-01,Rent,20188.03,Sales,Infrastructure,150
+2025-04-01,Office Supplies,1644.5,Sales,Infrastructure,150
+2025-04-01,Insurance,3564.0,Sales,Infrastructure,150
+2025-04-01,Maintenance,4380.07,Sales,Infrastructure,150
+2025-04-01,IT Services,11141.49,Sales,Infrastructure,150
+2025-04-01,Marketing,15630.94,Sales,Infrastructure,150
+2025-04-01,Travel,4240.05,Sales,Infrastructure,150
+2025-04-01,Professional Services,8105.8,Sales,Infrastructure,150
+2025-05-01,Salaries,53403.74,Sales,Infrastructure,150
+2025-05-01,Utilities,5275.55,Sales,Infrastructure,150
+2025-05-01,Rent,20591.79,Sales,Infrastructure,150
+2025-05-01,Office Supplies,2636.8,Sales,Infrastructure,150
+2025-05-01,Insurance,3647.69,Sales,Infrastructure,150
+2025-05-01,Maintenance,2761.49,Sales,Infrastructure,150
+2025-05-01,IT Services,11832.95,Sales,Infrastructure,150
+2025-05-01,Marketing,10243.45,Sales,Infrastructure,150
+2025-05-01,Travel,5935.78,Sales,Infrastructure,150
+2025-05-01,Professional Services,8435.17,Sales,Infrastructure,150
+2025-06-01,Salaries,52582.7,Sales,Infrastructure,150
+2025-06-01,Utilities,5604.05,Sales,Infrastructure,150
+2025-06-01,Rent,21003.62,Sales,Infrastructure,150
+2025-06-01,Office Supplies,2719.82,Sales,Infrastructure,150
+2025-06-01,Insurance,3842.89,Sales,Infrastructure,150
+2025-06-01,Maintenance,2080.71,Sales,Infrastructure,150
+2025-06-01,IT Services,11083.33,Sales,Infrastructure,150
+2025-06-01,Marketing,13585.42,Sales,Infrastructure,150
+2025-06-01,Travel,6534.65,Sales,Infrastructure,150
+2025-06-01,Professional Services,7590.87,Sales,Infrastructure,150
+2025-07-01,Salaries,53766.09,Sales,Infrastructure,150
+2025-07-01,Utilities,7766.53,Sales,Infrastructure,150
+2025-07-01,Rent,21423.69,Sales,Infrastructure,150
+2025-07-01,Office Supplies,2286.02,Sales,Infrastructure,150
+2025-07-01,Insurance,3808.9,Sales,Infrastructure,150
+2025-07-01,Maintenance,3396.43,Sales,Infrastructure,150
+2025-07-01,IT Services,11083.89,Sales,Infrastructure,150
+2025-07-01,Marketing,11981.88,Sales,Infrastructure,150
+2025-07-01,Travel,5088.22,Sales,Infrastructure,150
+2025-07-01,Professional Services,6234.21,Sales,Infrastructure,150
+2025-08-01,Salaries,53142.23,Sales,Infrastructure,150
+2025-08-01,Utilities,6934.61,Sales,Infrastructure,150
+2025-08-01,Rent,21852.17,Sales,Infrastructure,150
+2025-08-01,Office Supplies,2014.87,Sales,Infrastructure,150
+2025-08-01,Insurance,3999.44,Sales,Infrastructure,150
+2025-08-01,Maintenance,3485.79,Sales,Infrastructure,150
+2025-08-01,IT Services,12747.84,Sales,Infrastructure,150
+2025-08-01,Marketing,10622.59,Sales,Infrastructure,150
+2025-08-01,Travel,2949.46,Sales,Infrastructure,150
+2025-08-01,Professional Services,8592.52,Sales,Infrastructure,150
+2025-09-01,Salaries,54126.09,Sales,Infrastructure,150
+2025-09-01,Utilities,6867.98,Sales,Infrastructure,150
+2025-09-01,Rent,22289.21,Sales,Infrastructure,150
+2025-09-01,Office Supplies,3086.74,Sales,Infrastructure,150
+2025-09-01,Insurance,4027.88,Sales,Infrastructure,150
+2025-09-01,Maintenance,3035.62,Sales,Infrastructure,150
+2025-09-01,IT Services,10952.98,Sales,Infrastructure,150
+2025-09-01,Marketing,15607.65,Sales,Infrastructure,150
+2025-09-01,Travel,6152.58,Sales,Infrastructure,150
+2025-09-01,Professional Services,8762.07,Sales,Infrastructure,150
+2025-10-01,Salaries,53656.48,Sales,Infrastructure,150
+2025-10-01,Utilities,5893.42,Sales,Infrastructure,150
+2025-10-01,Rent,22735.0,Sales,Infrastructure,150
+2025-10-01,Office Supplies,1716.9,Sales,Infrastructure,150
+2025-10-01,Insurance,4030.14,Sales,Infrastructure,150
+2025-10-01,Maintenance,3290.73,Sales,Infrastructure,150
+2025-10-01,IT Services,12075.34,Sales,Infrastructure,150
+2025-10-01,Marketing,13695.38,Sales,Infrastructure,150
+2025-10-01,Travel,2970.39,Sales,Infrastructure,150
+2025-10-01,Professional Services,6792.29,Sales,Infrastructure,150
+2025-11-01,Salaries,52772.5,Sales,Infrastructure,150
+2025-11-01,Utilities,6507.67,Sales,Infrastructure,150
+2025-11-01,Rent,23189.7,Sales,Infrastructure,150
+2025-11-01,Office Supplies,2434.83,Sales,Infrastructure,150
+2025-11-01,Insurance,4044.86,Sales,Infrastructure,150
+2025-11-01,Maintenance,3018.81,Sales,Infrastructure,150
+2025-11-01,IT Services,11227.46,Sales,Infrastructure,150
+2025-11-01,Marketing,18293.58,Sales,Infrastructure,150
+2025-11-01,Travel,5812.38,Sales,Infrastructure,150
+2025-11-01,Professional Services,7585.27,Sales,Infrastructure,150
+2025-12-01,Salaries,53620.9,Sales,Infrastructure,150
+2025-12-01,Utilities,7626.38,Sales,Infrastructure,150
+2025-12-01,Rent,23653.49,Sales,Infrastructure,150
+2025-12-01,Office Supplies,2676.42,Sales,Infrastructure,150
+2025-12-01,Insurance,4187.19,Sales,Infrastructure,150
+2025-12-01,Maintenance,3578.52,Sales,Infrastructure,150
+2025-12-01,IT Services,13453.39,Sales,Infrastructure,150
+2025-12-01,Marketing,23457.74,Sales,Infrastructure,150
+2025-12-01,Travel,3403.84,Sales,Infrastructure,150
+2025-12-01,Professional Services,9882.22,Sales,Infrastructure,150
+2026-01-01,Salaries,52664.11,Sales,Infrastructure,150
+2026-01-01,Utilities,7401.44,Sales,Infrastructure,150
+2026-01-01,Rent,24126.56,Sales,Infrastructure,150
+2026-01-01,Office Supplies,2651.05,Sales,Infrastructure,150
+2026-01-01,Insurance,4187.37,Sales,Infrastructure,150
+2026-01-01,Maintenance,2198.74,Sales,Infrastructure,150
+2026-01-01,IT Services,13888.72,Sales,Infrastructure,150
+2026-01-01,Marketing,13207.96,Sales,Infrastructure,150
+2026-01-01,Travel,2790.31,Sales,Infrastructure,150
+2026-01-01,Professional Services,9363.49,Sales,Infrastructure,150

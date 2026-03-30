@@ -1,5 +1,7 @@
 # Prompt to query Fabric Roadmap
 
+NOTE - When you used with latest version of consumer Copilot: THIS DOES NOT WORK. March 2026.
+
 Designed to be used with the consumer Copilot in [Bing](https://www.bing.com/) on Edge browser. Not tested with M365 Copilot, as it tends to ground on internal data by default.
 
 

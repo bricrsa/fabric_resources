@@ -1,6 +1,17 @@
 ## General Fabric plaform
 
 Matthew Farrow 
+
+- ### Fabric Chargeback Series
+    - [Part 1](https://www.linkedin.com/pulse/fabric-chargeback-app-part-1-defining-your-strategy-matthew-farrow-8vwdf/)
+    - [Part 2](https://www.linkedin.com/pulse/fabric-chargeback-app-part-2-using-facilitate-your-strategy-farrow-brrqe/)
+
+- ### RTH Capacity Explainer Series
+    - [Part 1](https://www.linkedin.com/pulse/rth-capacity-events-overview-events-schema-part-1-summary-farrow-du9qe/?trackingId=VxinmOKpTFmEWxnLSw2M5A%3D%3D)
+    - [Part 2](https://www.linkedin.com/pulse/rth-capacity-events-overview-events-schema-part-2-states-farrow-z6zxe/?trackingId=VxinmOKpTFmEWxnLSw2M5A%3D%3D)
+    - [Part another - Restarts](https://www.linkedin.com/pulse/rth-capacity-events-analysis-series-restarts-matthew-farrow-t6nle/?trackingId=VxinmOKpTFmEWxnLSw2M5A%3D%3D)
+    - [Part another - SKU changes](https://www.linkedin.com/pulse/rth-capacity-events-analysis-series-sku-changes-matthew-farrow-00lte/?trackingId=VxinmOKpTFmEWxnLSw2M5A%3D%3D)
+    
 - [Deep Dive into OneLake, 3 part series - May 2025](https://www.linkedin.com/pulse/deep-dive-onelake-part-1-what-onelake-matthew-farrow-fhw6e/)
 - [Explaining Fabric Throttling, 3 part series - Sept 2025](https://www.linkedin.com/pulse/explaining-10-60-1440-minute-throttling-limits-part-1-matthew-farrow-z1kse/)
 

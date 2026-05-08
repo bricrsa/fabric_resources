@@ -5,9 +5,10 @@
 - [Useful Blogs](#useful-blogs)
 - [Useful training and repos](#useful-training-and-repos)
 - [Fabric Databricks Mirroring](#fabric-databricks-mirroring)
+- [Notebook CU Cost](#notebook-cu-cost)
 - [Web Modelling empowerment](#web-modelling-empowerment-set-up-a-lakehouse-with-shortcuts-in-another-workspace-via-notebook-with-semantic-model-copied-and-pq-enabled)
 - [Copilot Prompt for searching the Fabric Roadmap](#copilot-prompt-for-searching-the-fabric-roadmap)
-- [Copy Data from one Lakehouse to anther to support data management for deployment between SDLC stages](#copy-data-from-one-lakehouse-to-anther-to-support-data-management-for-deployment-between-sdlc-stages)
+- [Copy Data from one Lakehouse to another to support data management for deployment between SDLC stages](#copy-data-from-one-lakehouse-to-anther-to-support-data-management-for-deployment-between-sdlc-stages)
 - [Collect information for Fabric Capacities, Workspaces and Items and record in SCD2](#collect-information-for-fabric-capacities-workspaces-and-items-and-record-in-scd2))
 - [Understanding Microsoft Fabric Capacity state and history from the Azure Resource Graph](#understanding-microsoft-fabric-capacity-state-and-history-from-the-azure-resource-graph)
 
@@ -28,6 +29,10 @@
  - [Useful training and repos](/repos.md)
 
 ## Self authored or contributed
+
+### Notebook CU Cost
+
+A way of using the Capacity Metrics data to derive costs of individual notebook executions. Not fast, not elegant, but works. [details](/Notebook_CU_Cost.md)
 
 ### Fabric Databricks Mirroring
 

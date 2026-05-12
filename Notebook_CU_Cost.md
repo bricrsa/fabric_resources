@@ -22,3 +22,9 @@ For Notebooks, used Stopped status to harvest information on total duration and 
 1. Capture a list of available Capacities and filter to just one Capacity, capture all the timepoints within a specified range [Admin notebook 1](/notebooks/nb_admin_0200_CollectCapacityMetrics.ipynb)
 2. Use the result of Notebook 1 to iterate through each of the timepoint details and capture operation data [Admin notebook 2](/notebooks/nb_admin_0220_CollectCapacityMetricsTimepointDetail.ipynb) 
 3. Explore the resulting data, inputting regions and costs for Capacity and billing type [Admin notebook 3](/notebooks/nb_admin_0240_CUMetricsExplorer.ipynb) 
+
+### Cautions and notes
+
+1. Only tested with v53 of the Cap Metrics semantic model. This semantic model is not a Microsoft supported artifact, only the Capacity Metrics reports is supported. Use of the semantic model directly is unsupported.
+2. Each timepoint iteration in notebook 2 takes around 7 seconds, so at least 5 hours is required to run this for a full day of timepoints. The 7 seconds does not appear to vary between hosting the CapMetrics workspace on Pro (recommended) or on a capacity.
+3. There are roadmap items for including these kinds of events in the workspace monitoring.
